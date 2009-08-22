@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/88/trunk/src/grammars
+END
+minijava.jj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/79/trunk/src/grammars/minijava.jj
+END
+java.jj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/87/trunk/src/grammars/java.jj
+END
+python.jj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/88/trunk/src/grammars/python.jj
+END
+generic.jj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/62/trunk/src/grammars/generic.jj
+END

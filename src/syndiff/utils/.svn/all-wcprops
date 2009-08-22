@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/92/trunk/src/syndiff/utils
+END
+RCPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/src/syndiff/utils/RCPair.java
+END
+EditList.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/77/trunk/src/syndiff/utils/EditList.java
+END
+History.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/77/trunk/src/syndiff/utils/History.java
+END
+Sum.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/77/trunk/src/syndiff/utils/Sum.java
+END
+EditListPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/src/syndiff/utils/EditListPrinter.java
+END
+OrderedChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/85/trunk/src/syndiff/utils/OrderedChooser.java
+END
+Statics.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/85/trunk/src/syndiff/utils/Statics.java
+END
+UnorderedChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/79/trunk/src/syndiff/utils/UnorderedChooser.java
+END
+DiffViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/85/trunk/src/syndiff/utils/DiffViewer.java
+END
+TreeBuildHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/src/syndiff/utils/TreeBuildHandler.java
+END

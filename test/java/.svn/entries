@@ -1,0 +1,52 @@
+8
+
+dir
+92
+https://syndiff.googlecode.com/svn/trunk/test/java
+https://syndiff.googlecode.com/svn
+
+
+
+2008-03-11T18:21:59.265082Z
+91
+grant.jenks
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+88981d13-1d45-0410-9368-913255cecb36
+
+Example-diff.java
+file
+
+
+
+
+2008-03-07T18:20:55.296875Z
+a1ce58de69e99b994f7012c0b8dc9f9d
+2008-03-11T18:21:59.265082Z
+91
+grant.jenks
+
+Example.java
+file
+
+
+
+
+2008-03-07T18:21:00.625000Z
+3d9d64dd8d53cfe079e88c1b4b36fdd6
+2008-03-11T18:21:59.265082Z
+91
+grant.jenks
+

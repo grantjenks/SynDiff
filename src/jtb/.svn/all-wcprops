@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/62/trunk/src/jtb
+END
+JTB.java
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/62/trunk/src/jtb/JTB.java
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/trunk/src/jtb/.classpath
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/src/jtb/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11/trunk/src/jtb/.project
+END
+jtbgram.jj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/11/trunk/src/jtb/jtbgram.jj
+END

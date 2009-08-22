@@ -1,0 +1,38 @@
+SynDiff
+
+This file details how to add language support for another language in Syndiff.
+
+Files needed:
+
+your_grammar_file.jj
+
+Please see the JTB and JavaCC documentation on the format and restrictions for
+the grammar file.
+
+Files to change:
+
+Build files:
+build\cleanall.bat
+build\langbuild.bat
+
+Change cleanall.bat to delete the language files which will be generated at:
+src\syndiff\lang\your_grammar_name
+
+Change langbuild.bat to generate and add the language files. Please refer to
+the comments in that file for information on how this should be structured.
+
+Source files:
+src\syndiff\utils\Statics.java
+src\syndiff\utils\TreeBuildHandler.java
+
+Change Statics.java to include the new language in processing command line
+arguments and dispalying usage. Also change the enumerated language type
+to include the name of your language.
+
+Change TreeBuildHandler.java to include parsing and setting the global tree
+root node variables. Please refer to the comments in this file for details
+on the structure of this change.
+
+Performing the above changes will work in the general case of adding language
+support. If your grammar or language has specific edge cases then you may need
+to modify this process as needed.

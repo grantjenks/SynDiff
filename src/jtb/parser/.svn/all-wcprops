@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/12/trunk/src/jtb/parser
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/src/jtb/parser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/parser/TokenMgrError.java
+END
+jtb.out.jj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/src/jtb/parser/jtb.out.jj
+END
+JTBParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/parser/JTBParserTokenManager.java
+END
+JTBParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/parser/JTBParserConstants.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/parser/ParseException.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/parser/JavaCharStream.java
+END
+JTBParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/jtb/parser/JTBParser.java
+END

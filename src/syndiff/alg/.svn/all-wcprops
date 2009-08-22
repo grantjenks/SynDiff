@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/92/trunk/src/syndiff/alg
+END
+UnifiedDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/92/trunk/src/syndiff/alg/UnifiedDifferencer.java
+END
+OrderedDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/82/trunk/src/syndiff/alg/OrderedDifferencer.java
+END
+UnorderedDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/92/trunk/src/syndiff/alg/UnorderedDifferencer.java
+END
+TreeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/62/trunk/src/syndiff/alg/TreeEdit.java
+END
+SimpleDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/62/trunk/src/syndiff/alg/SimpleDifferencer.java
+END
+TrivialDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/trunk/src/syndiff/alg/TrivialDifferencer.java
+END
+Differencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/41/trunk/src/syndiff/alg/Differencer.java
+END
+HybridDifferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/86/trunk/src/syndiff/alg/HybridDifferencer.java
+END

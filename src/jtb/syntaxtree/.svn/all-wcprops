@@ -1,0 +1,695 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree
+END
+PackageDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PackageDeclaration.java
+END
+SwitchLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/SwitchLabel.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Statement.java
+END
+SynchronizedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/SynchronizedStatement.java
+END
+Arguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Arguments.java
+END
+ConditionalAndExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ConditionalAndExpression.java
+END
+ArrayDimensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ArrayDimensions.java
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Assignment.java
+END
+ComplexRegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ComplexRegularExpression.java
+END
+AdditiveExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/AdditiveExpression.java
+END
+NestedInterfaceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NestedInterfaceDeclaration.java
+END
+InstanceOfExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/InstanceOfExpression.java
+END
+ForInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ForInit.java
+END
+ClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ClassDeclaration.java
+END
+NameList.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NameList.java
+END
+PostfixExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PostfixExpression.java
+END
+LabeledStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/LabeledStatement.java
+END
+ArgumentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ArgumentList.java
+END
+CompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/CompilationUnit.java
+END
+ImportDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ImportDeclaration.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeList.java
+END
+IfStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/IfStatement.java
+END
+SwitchStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/SwitchStatement.java
+END
+RegExprSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/RegExprSpec.java
+END
+ClassBodyDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ClassBodyDeclaration.java
+END
+ConstructorDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ConstructorDeclaration.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Literal.java
+END
+BooleanLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/BooleanLiteral.java
+END
+PreDecrementExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PreDecrementExpression.java
+END
+NodeChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeChoice.java
+END
+ExpansionChoices.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ExpansionChoices.java
+END
+LocalVariableDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/LocalVariableDeclaration.java
+END
+JavaCCInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/JavaCCInput.java
+END
+ComplexRegularExpressionUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ComplexRegularExpressionUnit.java
+END
+ContinueStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ContinueStatement.java
+END
+CastExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/CastExpression.java
+END
+PrimitiveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PrimitiveType.java
+END
+RelationalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/RelationalExpression.java
+END
+UnmodifiedInterfaceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/UnmodifiedInterfaceDeclaration.java
+END
+UnaryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/UnaryExpression.java
+END
+ResultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ResultType.java
+END
+StatementExpressionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/StatementExpressionList.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Type.java
+END
+ClassBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ClassBody.java
+END
+EmptyStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/EmptyStatement.java
+END
+NodeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeToken.java
+END
+TokenManagerDecls.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/TokenManagerDecls.java
+END
+VariableDeclarator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/VariableDeclarator.java
+END
+NullLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NullLiteral.java
+END
+CharacterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/CharacterList.java
+END
+VariableInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/VariableInitializer.java
+END
+CharacterDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/CharacterDescriptor.java
+END
+NodeOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeOptional.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Expression.java
+END
+PrimaryPrefix.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PrimaryPrefix.java
+END
+CastLookahead.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/CastLookahead.java
+END
+NodeListInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeListInterface.java
+END
+JavaCCOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/JavaCCOptions.java
+END
+OptionBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/OptionBinding.java
+END
+PrimaryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PrimaryExpression.java
+END
+TryStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/TryStatement.java
+END
+Expansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Expansion.java
+END
+ReturnStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ReturnStatement.java
+END
+InterfaceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/InterfaceDeclaration.java
+END
+ComplexRegularExpressionChoices.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ComplexRegularExpressionChoices.java
+END
+RegularExprProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/RegularExprProduction.java
+END
+BreakStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/BreakStatement.java
+END
+ForStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ForStatement.java
+END
+PreIncrementExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PreIncrementExpression.java
+END
+BNFProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/BNFProduction.java
+END
+EqualityExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/EqualityExpression.java
+END
+LexicalStateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/LexicalStateList.java
+END
+NestedClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NestedClassDeclaration.java
+END
+BlockStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/BlockStatement.java
+END
+UnaryExpressionNotPlusMinus.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/UnaryExpressionNotPlusMinus.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Name.java
+END
+FormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/FormalParameter.java
+END
+ExplicitConstructorInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ExplicitConstructorInvocation.java
+END
+InclusiveOrExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/InclusiveOrExpression.java
+END
+ArrayInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ArrayInitializer.java
+END
+RegExprKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/RegExprKind.java
+END
+ConditionalExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ConditionalExpression.java
+END
+AssignmentOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/AssignmentOperator.java
+END
+ConditionalOrExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ConditionalOrExpression.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Node.java
+END
+MethodDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/MethodDeclaration.java
+END
+TypeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/TypeDeclaration.java
+END
+ExclusiveOrExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ExclusiveOrExpression.java
+END
+ForUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ForUpdate.java
+END
+MethodDeclarationLookahead.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/MethodDeclarationLookahead.java
+END
+LocalLookahead.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/LocalLookahead.java
+END
+VariableDeclaratorId.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/VariableDeclaratorId.java
+END
+FormalParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/FormalParameters.java
+END
+ExpansionUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ExpansionUnit.java
+END
+AllocationExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/AllocationExpression.java
+END
+PrimarySuffix.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/PrimarySuffix.java
+END
+MultiplicativeExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/MultiplicativeExpression.java
+END
+NodeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeSequence.java
+END
+UnmodifiedClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/UnmodifiedClassDeclaration.java
+END
+MethodDeclarator.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/MethodDeclarator.java
+END
+RegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/RegularExpression.java
+END
+AndExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/AndExpression.java
+END
+JavaCodeProduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/JavaCodeProduction.java
+END
+Initializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Initializer.java
+END
+StatementExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/StatementExpression.java
+END
+Production.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Production.java
+END
+DoStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/DoStatement.java
+END
+NodeListOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/NodeListOptional.java
+END
+ThrowStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ThrowStatement.java
+END
+FieldDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/FieldDeclaration.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/Block.java
+END
+ExpansionUnitTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ExpansionUnitTerm.java
+END
+ShiftExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/ShiftExpression.java
+END
+WhileStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/WhileStatement.java
+END
+InterfaceMemberDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/src/jtb/syntaxtree/InterfaceMemberDeclaration.java
+END

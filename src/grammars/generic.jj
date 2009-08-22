@@ -1,0 +1,15 @@
+/* 
+ * Created by Grant Jenks
+ * Generic grammar file for generic visitor and node types.
+ * For Syndiff
+ */
+
+options {
+}
+
+PARSER_BEGIN(GenericParser)
+PARSER_END(GenericParser)
+
+/*****************************************
+ * NO GENERIC GRAMMAR                    *
+ *****************************************/

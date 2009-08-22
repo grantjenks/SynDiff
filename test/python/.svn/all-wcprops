@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/81/trunk/test/python
+END
+SimpleClassDiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/81/trunk/test/python/SimpleClassDiff.py
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/65/trunk/test/python/example.py
+END
+FactorialDiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/81/trunk/test/python/FactorialDiff.py
+END
+SimpleClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/81/trunk/test/python/SimpleClass.py
+END
+example-diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/test/python/example-diff.py
+END
+Factorial.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/81/trunk/test/python/Factorial.py
+END
